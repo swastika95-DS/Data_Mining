@@ -1,0 +1,2 @@
+# Data_Mining
+Data Mining , categorically falls under predictive analytics and is fundamentally associated with information discovery in databases. Data Mining aims at finding useful patterns from large data sets in an attempt to make data more informative and qualitatively insightful. The value of patterns discovered from mining the data enables businesses to make effective data-driven decisions and develop a sustainable competitive advantage. Techniques used: CART, Random Forest, ANN
